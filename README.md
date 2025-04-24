@@ -4,10 +4,8 @@ A Novel Hybrid Approach for Retinal Vessel Segmentation with Dynamic Long-Range 
 
 *****
 
-All results is evaluated on Python 3.10 with PyTorch 2.1.1+cuda118.
-We only publish our test results on the DRIVE, STARE and CHASE_DB1 for now.
-
-The implementation details of code will be updated after the paper is officially published.
+All results is evaluated on Python 3.10 with PyTorch 2.1.2+cuda121.
+We publish our test results on the DRIVE, STARE and CHASE_DB1.
 
 # Datasets
 The DRIVE, STARE and CHASE_DB1 datasets can be downloaded with:
