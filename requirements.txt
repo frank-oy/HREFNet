@@ -1,0 +1,8 @@
+numpy==1.26.3
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+SimpleITK==2.4.1
+matplotlib==3.8.2
+tqdm==4.66.1
+requests==2.31.0
+Pillow==10.2.0
