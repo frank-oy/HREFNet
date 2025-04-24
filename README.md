@@ -35,5 +35,5 @@ The following illustrations present our comparative experiments and ablation stu
 When building our codeWe referenced the repositories as follow:
 
 1.[HRormer](https://github.com/HRNet/HRFormer)
-
 2.[VMamba](https://github.com/MzeroMiko/VMamba)
+3.[DSCNet](https://github.com/YaoleiQi/DSCNet)
