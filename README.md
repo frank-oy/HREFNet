@@ -24,11 +24,11 @@ https://www.kaggle.com/datasets/rashasarhanalharthi/chase-db1
 
 The following illustrations present our comparative experiments and ablation studies.
 
-![Fig5](Fig5.png)
+![Fig5](Image/Fig5.png)
 
-![Fig6](Fig6.png)
+![Fig6](Image/Fig6.png)
 
-![Fig7](Fig7.png)
+![Fig7](Image/Fig7.png)
 
 # Reference
 
