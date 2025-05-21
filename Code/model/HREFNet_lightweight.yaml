@@ -1,0 +1,19 @@
+AMP_OPT_LEVEL: O1
+MODEL:
+  TYPE: HREFNet
+  NAME: HREFNet_lightweight
+  HRT:
+    DROP_PATH_RATE: 0.2
+    STAGE1:
+      NUM_MODULES: 1
+      NUM_BRANCHES: 1
+      NUM_BLOCKS: [1]
+      NUM_CHANNELS: [64]
+      BLOCK: 'BOTTLENECK'
+
+    STAGE2:
+      NUM_MODULES: 1
+      NUM_BRANCHES: 2
+      NUM_BLOCKS: [1, 1]
+      NUM_CHANNELS: [36, 72]
+      BLOCK: 'VSS_BLOCK'
