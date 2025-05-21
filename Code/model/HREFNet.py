@@ -1,5 +1,5 @@
 # --------------------------------------------------------
-# High Resolution Transformer
+# HREFNet
 # Copyright (c) 2021 Microsoft
 # Licensed under The MIT License [see LICENSE for details]
 # Written by Rao Fu, RainbowSecret
